@@ -13,8 +13,4 @@ I am a security enthusiast who have a passion in programming,data science, and a
   <img src = "https://github-readme-stats.vercel.app/api?username=synthpX&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=synthpX&hide=css,java,html&theme=tokyonight">
 </p>
- 
- <br>
-<p align = "center"><img src="https://wakatime.com/share/@pr2tik1/8332ae94-9ac8-47ed-9d19-2907324fd8b7.svg" alt="Wakatime report" height="300" />
-<img src="https://wakatime.com/share/@pr2tik1/706a719b-6843-40f9-b397-151faf9ade2d.svg" alt="Wakatime report" height="300" /></p>  
 </details>
